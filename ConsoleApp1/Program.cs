@@ -55,7 +55,7 @@ internal class Program
                 }
             default:
                 {
-                    Console.WriteLine("Wrong select!");
+                    Console.WriteLine("Wrong select!!");
                     break;
                 }
         }
